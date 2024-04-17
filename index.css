@@ -1,0 +1,30 @@
+*{
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+#form-div{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+input
+{
+  height:20px;
+  max-width: 600px;
+  margin-top: 10px;
+}
+
+textarea{
+  height: max-content;
+  max-width: max-content;
+  margin-top: 10px;
+}
+
+label
+{
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
